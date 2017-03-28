@@ -33,8 +33,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : 江枫
+tagline: 自由软件开发者
 assets: /assets
 baseurl: 
 
